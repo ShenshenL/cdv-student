@@ -5,6 +5,7 @@ In this exercise I encountered
 and
 - learned things
 ...
+See my work [here](https://shenshenl.github.io/cdv-student/coding-exercises/placeholder/website/).
 
 <!-- See my work [here](https://leoneckert.github.io/cdv-student/coding-exercises/placeholder/website/). (note this link goes to GitHub Pages, the *public* face of this project)
 ̨ -->
