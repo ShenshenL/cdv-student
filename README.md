@@ -6,7 +6,7 @@ Hi! I am [Layla] and in this repository I will develop my work for the [Critical
 
 Among other things, I will link to Coding Exercises and Projects:
 
-- [coding exercise (placeholder)](coding-exercises/placeholder)
+- [coding exercise (placeholder)](coding-exercises)
 - [cool project (placeholder)](projects/placeholder)
 - ...
 
