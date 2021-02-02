@@ -1,0 +1,36 @@
+body{
+
+  background-image: url("giphy.gif");
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 60px
+}
+
+div{
+  color: #ffffff;
+}
+
+#chart {
+  display: flex;
+  font-family: fantasy;
+  font-size: 25px;
+  flex-direction: column;
+  position: absolute;
+  top: 160px;
+  left: 550px;
+  text-align: left;
+  width: 600px;
+  text-decoration-line: underline;
+  text-indent: 10px;
+}
+
+.bar{
+  border-radius:5px;
+  animation: grow 10s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
