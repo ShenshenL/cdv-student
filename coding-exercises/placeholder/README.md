@@ -7,6 +7,7 @@ and
 ...
 See my work
 coding_foundation[here](https://shenshenl.github.io/cdv-student/coding-exercises/placeholder/coding_foundation/).
+
 coding_exercise2[here](https://shenshenl.github.io/cdv-student/coding-exercises/placeholder/exercise2/).
 
 
