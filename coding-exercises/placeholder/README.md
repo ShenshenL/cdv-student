@@ -11,6 +11,6 @@ coding_foundation[here](https://shenshenl.github.io/cdv-student/coding-exercises
 
 coding_exercise2[here](https://shenshenl.github.io/cdv-student/coding-exercises/placeholder/exercise2/).
 
-coding_exercise2[here](https://shenshenl.github.io/cdv-student/coding-exercises/placeholder/exercise3/).
+coding_exercise3[here](https://shenshenl.github.io/cdv-student/coding-exercises/placeholder/exercise3/).
 <!-- See my work [here](https://leoneckert.github.io/cdv-student/coding-exercises/placeholder/website/). (note this link goes to GitHub Pages, the *public* face of this project)
 ̨ -->
