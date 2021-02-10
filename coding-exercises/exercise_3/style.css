@@ -1,0 +1,14 @@
+body{
+  width, height: 100%;
+  margin-left: 350px
+
+}
+h1{
+  margin-left: 350px
+}
+#viz{
+  
+}
+svg{
+  background: url('sky.jpeg');
+}
