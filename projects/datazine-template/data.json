@@ -1,0 +1,50 @@
+[
+    {
+        "color": "gray",
+        "heightfloor": 3,
+        "timestay": 2,
+        "direction": "e"
+    },
+    {
+        "color": "brown",
+        "heightfloor": 12,
+        "timestay": 55,
+        "direction": "e"
+    },
+    {
+        "color": "blue",
+        "heightfloor": 8,
+        "timestay": 6,
+        "direction": "n"
+    },
+    {
+        "color": "white",
+        "heightfloor": 6,
+        "timestay": 28,
+        "direction": "s"
+    },
+    {
+        "color": "black",
+        "heightfloor": 25,
+        "timestay": 6,
+        "direction": "s"
+    },
+    {
+        "color": "brown",
+        "heightfloor": 24,
+        "timestay": 86,
+        "direction": "w"
+    },
+    {
+        "color": "purple",
+        "heightfloor": 26,
+        "timestay": 5,
+        "direction": "n"
+    },
+    {
+        "color": "brown",
+        "heightfloor": 17,
+        "timestay": 29,
+        "direction": "n"
+    }
+]
