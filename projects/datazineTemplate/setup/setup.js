@@ -61,7 +61,7 @@ function init(){
   var str = `
   <div id="nav-wrapper">
     <p id="header-p-tag">CDV Data Zine (w1200xh800)</p>
-    <nav id="page-nav"><a class="button `+ checkPage('cover') +`" href="index.html">Cover</a><a class="button `+ checkPage('middlespread') +`" href="middlespread.html">Page 2 & 3</a><a class="button `+ checkPage('back') +`" href="back.html">Back</a></nav>
+    <nav id="page-nav"><a class="button `+ checkPage('cover') +`" href="cover.html">Cover</a><a class="button `+ checkPage('middlespread') +`" href="middlespread.html">Page 2 & 3</a><a class="button `+ checkPage('back') +`" href="back.html">Back</a></nav>
   </div>
   `;
   document.body.insertAdjacentHTML( 'afterbegin', str );
