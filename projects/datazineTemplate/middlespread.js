@@ -16,12 +16,12 @@ var line = svg.append("line")
              .attr("marker-end","url(#arrow)");
 
 var line = svg.append("line")
-             .attr("x1",1450)
+             .attr("x1",1650)
              .attr("y1",10)
-             .attr("x2",1450)
+             .attr("x2",1650)
              .attr("y2",650)
              .attr("stroke","black")
-             .attr("stroke-width",2)
+             .attr("stroke-width",3)
              .attr("marker-end","url(#arrow)");
 
 var line = svg.append("line")
