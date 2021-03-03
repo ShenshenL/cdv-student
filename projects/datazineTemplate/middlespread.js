@@ -16,9 +16,9 @@ var line = svg.append("line")
              .attr("marker-end","url(#arrow)");
 
 var line = svg.append("line")
-             .attr("x1",1350)
+             .attr("x1",2170)
              .attr("y1",30)
-             .attr("x2",1350)
+             .attr("x2",2170)
              .attr("y2",650)
              .attr("stroke","black")
              .attr("stroke-width",3)
@@ -32,8 +32,9 @@ var line = svg.append("line")
              .attr("stroke","black")
              .attr("stroke-width",2)
              .attr("marker-end","url(#arrow)");
+
 var line = svg.append("line")
-             .attr("x1",1650)
+             .attr("x1",1250)
              .attr("y1",650)
              .attr("x2",2170)
              .attr("y2",650)
