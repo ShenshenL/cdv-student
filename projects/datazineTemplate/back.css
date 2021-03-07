@@ -1,6 +1,6 @@
 svg {
   /* The image used */
-  background-image: url("bg.jpg");
+  background: url('sky.jpeg');
 
   /* Full height */
   height: 100%;
@@ -8,5 +8,5 @@ svg {
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+
 }
