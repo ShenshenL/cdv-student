@@ -1,4 +1,4 @@
-let viz = d3.select("#container")
+let viz = d3.select("#cover-container")
   .append("svg")
   .attr("id", "viz")
   .attr("width", 1200)
