@@ -1,4 +1,4 @@
-## Reading response3
+## Reading response4
 
 The first example I thought about is the weather report. When I was in middle, many people complained about the weather report because of its inaccuracy, while in recent years, with new technology and scientific methods of data collection, the weather report has became increasing important.
 
