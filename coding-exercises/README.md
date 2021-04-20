@@ -20,5 +20,7 @@ coding_exerciseWeek6[here](https://shenshenl.github.io/cdv-student/coding-exerci
 coding_exerciseWeek7[here](https://shenshenl.github.io/cdv-student/coding-exercises/lab7-start/).
 
 coding_exerciseWeek8[here](https://shenshenl.github.io/cdv-student/coding-exercises/line-2-start/).
+
+coding_exerciseWeek9[here](https://shenshenl.github.io/cdv-student/coding-exercises/line-to-map-start/).
 <!-- See my work [here](https://leoneckert.github.io/cdv-student/coding-exercises/placeholder/website/). (note this link goes to GitHub Pages, the *public* face of this project)
 ̨ -->
