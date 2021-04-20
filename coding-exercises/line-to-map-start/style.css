@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  margin-top:30px;
+  /* background-color: black; */
+}
+p{
+  font-size: 25px;
+  text-decoration-color: #FFFFFF
+
+}
+#btn{
+  background-color: #000000; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 25px;
+}
