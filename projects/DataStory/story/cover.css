@@ -1,0 +1,10 @@
+svg {
+  /* The image used */
+  background: url('cover.jpg');
+
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
