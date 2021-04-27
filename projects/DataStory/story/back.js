@@ -2,7 +2,7 @@ let viz = d3.select("#container")
   .append("svg")
   .attr("id", "viz")
   .attr("width", 1200)
-  .attr("height", 800)
+  .attr("height", 1800)
 ;
 var svg = d3.select('svg');
 
@@ -54,3 +54,7 @@ var text = svg.append('text')
                               .attr('y',280)
                               .attr("fill", "black")
                               .style("font-size", "16px")
+var myimage = svg.append('image')
+                              .attr('xlink:href', 'library.jpg')
+                              .attr("x",200)
+                              .attr('y',422)
