@@ -1,11 +1,4 @@
 svg {
-  /* The image used */
-  background: url('');
-
-  /* Full height */
-  height: 100%;
-  width: : 100%;
-  /* Center and scale the image nicely */
-
-
+  background-color: White;
+  font-family: "OCR A Std";
 }

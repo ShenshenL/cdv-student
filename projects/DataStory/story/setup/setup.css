@@ -34,14 +34,14 @@
 body{
   margin:0;
   background-color: white;
-  margin-top:36px;
+
 }
 
 .cover-container, .back-container{
   width: 1200px;
 }
 .middle-spread-container{
-  width: 2400px;
+  width: 1600px;
 }
 
 a.button {

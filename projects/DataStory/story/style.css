@@ -4,8 +4,7 @@ body{
 
 }
 
-svg{
-  background: url('sky.jpeg');
-  height: 100%;
-
+svg {
+  background-color: WhiteSmoke;
+  font-family: "OCR A Std";
 }
