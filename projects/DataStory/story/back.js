@@ -54,12 +54,7 @@ var text = svg.append('text')
                               .attr('y',280)
                               .attr("fill", "black")
                               .style("font-size", "16px")
-// var myimage = svg.append('image')
-//                               .attr('xlink:href', 'library.jpg')
-//                               .attr("x",200)
-//                               .attr('y',422)
 
-//p2
 
 var text = svg.append('text')
                               .text('There is no significant correlations of the users’ interests. Some players play one game ')
