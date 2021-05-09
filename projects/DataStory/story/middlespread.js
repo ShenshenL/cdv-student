@@ -60,7 +60,6 @@ function xposition(datapoint){
   if(n>0){
     a = a-n*1440
   }
-
   return a+50
 }
 
