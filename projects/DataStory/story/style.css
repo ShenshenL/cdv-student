@@ -1,4 +1,8 @@
+body{
+  width, height: 100%;
+  margin-left: 50px
 
+}
 
 svg {
   background-color: WhiteSmoke;
