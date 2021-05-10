@@ -5,6 +5,8 @@ body{
 }
 
 svg {
+
+  margin-left: 50px;
   background-color: WhiteSmoke;
   font-family: "OCR A Std";
 }
