@@ -2,7 +2,7 @@
 let viz = d3.select("#container")
   .append("svg")
   .attr("id", "viz")
-  .attr("width", 1600)
+  .attr("width", 2000)
   .attr("height", 7200)
 ;
 //var zoom = d3.behavior.zoom().scaleExtent([1, 8]).on("zoom", zoomed);

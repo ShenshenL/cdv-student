@@ -1,7 +1,7 @@
 let viz = d3.select("#container")
   .append("svg")
   .attr("id", "viz")
-  .attr("width", 1600)
+  .attr("width", 2000)
   .attr("height", 1800)
 ;
 var svg = d3.select('svg');
