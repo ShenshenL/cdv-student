@@ -2,7 +2,7 @@ let viz = d3.select("#container")
   .append("svg")
   .attr("id", "viz")
   .attr("width", 2000)
-  .attr("height", 1800)
+  .attr("height", 1600)
 ;
 var svg = d3.select('svg');
 
@@ -119,3 +119,11 @@ var image2 = svg.append('image')
                               .attr('y',730)
                               .attr('width', 200)
                               .attr('height', 200)
+
+//
+var image2 = svg.append('image')
+                              .attr('xlink:href', 'videogame.gif')
+                              .attr("x",550)
+                              .attr('y',1000)
+                              .attr('width', 400)
+                              .attr('height', 400)
